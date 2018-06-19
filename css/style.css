@@ -30,4 +30,6 @@ body.home{
   -o-background-size: cover;
   background-size: cover;
 }
-
+img.imagesize{
+  width: 400px; height: 300px;
+}
