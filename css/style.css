@@ -1,38 +1,42 @@
-body.crabby{
-	background-image: url(../img/crabcakebackground.jpg);
-	font-family: 'Oxygen', sans-serif;
+body.crabby {
+    background-image: url(../img/crabcakebackground.jpg);
+    font-family: 'Oxygen', sans-serif;
 }
 
-h1,h2{
-	font-family: 'Spirax', cursive;
-}
-body.Gimbap{
-	background-image: url(../img/gimbap.jpg);
-	 background-image:no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-body.wings{
-	background-image: url(../img/wings.jpg);
-	 background-image:no-repeat center center fixed; 
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-body.home{
-	background: url(../img/firstrecipe.jpg) no-repeat top center;
-
-  }
-
-img.imagesize{
-  width: 400px; height: 300px;
+h1, h2 {
+    font-family: 'Spirax', cursive;
 }
 
+body.Gimbap {
+    background-image: url(../img/gimbap.jpg);
+    background-image: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
-body.injera{
+body.wings {
+    background-image: url(../img/wings.jpg);
+    background-image: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body.home {
+    background: url(../img/hdhome.jpg);
+    background-size:cover ;
+
+}
+
+img.imagesize {
+    width: 400px;
+    height: 300px;
+}
+
+body.injera {
     background-image: url(../img/injra.jpg);
     background-image: no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -41,9 +45,10 @@ body.injera{
     background-size: cover;
 
 }
-body.eggSauce{
+
+body.eggSauce {
     background-image: url(../img/eggSauce.jpg);
-    background-image:no-repeat center center fixed;
+    background-image: no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -51,9 +56,9 @@ body.eggSauce{
 
 }
 
-body.pumpkin{
-    background-image: url(../img/pumpkin1.jpg);
-    background-image:no-repeat center center fixed;
+body.pumpkin {
+    background-image: url(../img/crab.jpg);
+    background-image: no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
