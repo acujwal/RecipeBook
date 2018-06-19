@@ -1,0 +1,33 @@
+body.crabby{
+	background-image: url(../img/crabcakebackground.jpg);
+	font-family: 'Oxygen', sans-serif;
+}
+
+h1,h2{
+	font-family: 'Spirax', cursive;
+}
+body.Gimbap{
+	background-image: url(../img/gimbap.jpg);
+	 background-image:no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body.wings{
+	background-image: url(../img/wings.jpg);
+	 background-image:no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body.home{
+	background-image: url(../img/firstrecipe.jpg);
+    background-image:no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
