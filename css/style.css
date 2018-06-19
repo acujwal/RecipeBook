@@ -23,13 +23,9 @@ body.wings{
   background-size: cover;
 }
 body.home{
-	background-image: url(../img/firstrecipe.jpg);
-    background-image: no-repeat center center fixed;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+	background: url(../img/firstrecipe.jpg) no-repeat top center;
+
+  }
 
 img.imagesize{
   width: 400px; height: 300px;
